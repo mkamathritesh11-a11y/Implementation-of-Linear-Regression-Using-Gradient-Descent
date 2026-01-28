@@ -59,7 +59,8 @@ plt.title("Loss vs Iterations")
 ```
 
 ## Output:
-<img width="731" height="623" alt="image" src="https://github.com/user-attachments/assets/1e697dbc-a4de-4382-84db-264ed09ffbbe" />
+<img width="731" height="623" alt="image" src="https://github.com/user-attachments/assets/a1f0bfa0-8173-4c99-b3b2-47ac2ead15ac" />
+
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
