@@ -59,7 +59,8 @@ plt.title("Loss vs Iterations")
 ```
 
 ## Output:
-<img width="731" height="623" alt="image" src="https://github.com/user-attachments/assets/a1f0bfa0-8173-4c99-b3b2-47ac2ead15ac" />
+<img width="697" height="618" alt="image" src="https://github.com/user-attachments/assets/1541dc92-2d31-4eed-9f70-30bf21c3c947" />
+
 
 
 ## Result:
